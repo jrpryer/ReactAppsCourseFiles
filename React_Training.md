@@ -234,6 +234,37 @@ www.linkedin.com/in/sandeep-chatuphale
 ---
 ---
 
+# Day 4 tasks:
+
+
+Modify "empmanamegement" project in such way -
+	Add two more components
+	
+MenuComponent - it renders following links Login, Show Records,Add Record,Logout
+HeaderComponent - It shows Heading (Welcome to Employee Management App)
+	Note: - HeaderComponent is child of App
+	Note: - MenuComponent is child of HeaderComponent
+
+
+Add One component Login which renders two input fields and a Login button.
+After clicking Login if credentials are correct -
+After clicking Loing if credetials are NOT correct ERROR message MUST be shown to user
+
+
+
+MenuComponent - it renders following links	Login, Show Records,Add Record,Logout
+	It also shows Total Registered Records {count}	
+	Note: - MenuComponent is child of HeaderComponent
+
+
+---
+---
+---
+
+
+
+
+
 
 # Day 5 demo notes:
 
@@ -241,12 +272,10 @@ Modify SearchEmployee Component which renders radio button to allow user to sort
 
 
 
----
-
 Menu Component Should show appropriate Menus based on whether user is Logged OR NOT
 
 
----
+
 
 
 # demo-epayment
